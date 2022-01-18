@@ -22,7 +22,3 @@ color: #2F8F98; font-family: cabin; font-size: 24px; margin-left: 10px;
 a[href^="mailto"]::before {
     content: "📧 ";
 }
-
-a[href^="LinkedIn"]::before {
-    content: "📞 ";
-}

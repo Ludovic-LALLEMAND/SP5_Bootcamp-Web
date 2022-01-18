@@ -60,6 +60,7 @@ color: #2F8F98; font-family: cabin; font-size: 24px; margin-left: 10px;
 a[href^="mailto"]::before {
     content: "📧 ";
 }
+
 .Formulairecolor {
     color: #2F8F98; font: cabin; font-weight: bold; text-transform: capitalize;
     }
@@ -137,5 +138,59 @@ a[href^="mailto"]::before {
         background-color= white;
     }
     .H1table{
+        color: #2F8F98; font-family: cabin; font-weight: bold; font-size: 40px; text-align: center;
+        }
+
+        form {
+
+            border: medium solid :#e39259;
+            background-color: black;
+            width: 60%;
+            padding-left: 100px;
+            margin-left: 250px;
+            
+        }
+        
+        label {
+            display:block;
+            color: #2F8F98;
+            font-family: -apple-system, BlinkMacSystemFont, 'cabin', Roboto, Oxygen, Ubuntu, Cantarell, 'cabin', 'cabin', sans-serif;
+            font-size: 12px;
+            text-align: left;
+        }
+        
+        input {
+           
+            border-radius: 5px;
+            background-color: #e39259;
+            padding:10px 20px 20px 100px;
+            margin-left: 80px;
+            margin-top: -100px;
+           
+        }
+        
+        textarea {
+            border-radius: 5px;
+            background-color: #e39259;
+            padding:10px 50px 50px 200px;
+        }
+        
+        select {
+            border-radius: 5px;
+            background-color: #e39259;
+            
+        }
+        option {
+            color:#e39259;
+        }
+        
+        button {
+            background-color: #e39259;
+            border-radius: 5%;
+            font-family: cabin, Haettenschweiler, 'cabin', sans-serif;
+            font-size: 20px;
+        
+        }
+        .H1formulaire{
         color: #2F8F98; font-family: cabin; font-weight: bold; font-size: 40px; text-align: center;
         }

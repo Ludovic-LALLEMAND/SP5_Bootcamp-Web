@@ -1,0 +1,67 @@
+/********************** Slider ************************/
+.mp-slider .items {
+	display:none;
+}
+.mp-slider {
+	width:1200px;
+	height:460px;
+	margin:0 auto;
+	position:relative;
+}
+.mp-prev, .mp-next {
+	position:absolute;
+	width:30px;
+	height:60px;
+	bottom:82px;
+	z-index:999;
+}
+.mp-prev {
+	margin-left:-20px;
+	left:20px;
+	top:250px;
+	background:url(../Images/images-slides/images/mp-prev.png);
+}
+.mp-prev:hover {
+	opacity:0.8;
+}
+.mp-next {
+	right:20px;
+	top:250px;
+	background:url(../Images/images-slides/images/mp-next.png);
+}
+.mp-next:hover {
+	opacity:0.8;
+}
+.mp-slider .banner {
+	position:absolute;
+	left:35px;
+	right:35px;
+	font-family: 'cabin', sans-serif;
+	color:#2F8F98;
+	z-index:99 !important;
+	top:auto !important;
+	bottom:40px !important;
+	padding:0;
+	text-align:center;
+	font-size:50px;
+	line-height:60px;
+	text-transform:uppercase;
+}
+.mp-slider .banner span {
+	display:block;
+}
+.mp-slider .banner b {
+	color:#2F8F98;
+}
+.mp-slider .banner .row-1 b {
+	font-weight:normal;
+}
+.mp-slider .row-1 {
+	padding:0;
+}
+.mp-slider .row-2 {
+	font-size:80px;
+	line-height:90px;
+	margin:-5px 0 0 0;
+	font-weight:bold;
+}

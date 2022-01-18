@@ -63,3 +63,79 @@ a[href^="mailto"]::before {
 .Formulairecolor {
     color: #2F8F98; font: cabin; font-weight: bold; text-transform: capitalize;
     }
+    table{
+        border: medium solid white;
+        border-collapse: collapse;
+        width: 100%;
+        }
+        
+        tr {
+        border: medium solid #e39259;
+        width: 50%;
+        padding: 50px;
+        background-color: black;
+        font-family: cabin
+        color: #2F8F98;
+        font-weight:bold;
+        }
+        
+        td {
+        border: medium solid #e39259;
+        width: 5%;
+        padding: 50;
+        text-decoration-color: #2F8F98;
+        font-family: cabin
+        text-align: center;
+        color: black;
+        }
+        
+        th {
+        border: medium solid #e39259;
+        width: 5%;
+        padding: 60;
+        text-align: center;
+        color: #2F8F98;
+        font-family: cabin
+        background-color: black;
+        font-size:36px;
+        }
+        
+        .table{
+        border: medium solid white;
+        border-collapse: collapse;
+        width: 100%;
+        margin-left:80px;
+        }
+        
+        .th {
+        border: medium solid white;
+        width: 20%;
+        padding: 60;
+        text-align: center;
+        background-color:#e39259;
+        font-family: cabin
+        font-size:36px;
+        }
+        
+        .td { 
+        border: medium solid #e39259;
+        width: 5%;
+        padding: 50;
+        text-align: center;
+        background-color: white;
+        font-family: cabin
+        font-weight:bold;
+        font-size:25px; 
+        }
+        
+        .td1 { 
+        border: medium solid #e39259;
+        width: 5%;
+        padding: 50;
+        text-align: center;
+        font-family: cabin
+        background-color: white;
+    }
+    .H1table{
+        color: #2F8F98; font-family: cabin; font-weight: bold; font-size: 40px; text-align: center;
+        }

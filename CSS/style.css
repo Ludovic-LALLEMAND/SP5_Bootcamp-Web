@@ -18,7 +18,8 @@ margin-left: 100px;
     text-align: center;
   }	
   #navigation li {
-display: inline;
+    display: inline-block; */
+    /* width: 30%;
   }
   
   #navigation li a:hover, #navigation li a:focus, #navigation li a:active {

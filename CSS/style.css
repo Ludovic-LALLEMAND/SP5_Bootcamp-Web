@@ -60,5 +60,5 @@ a[href^="mailto"]::before {
     content: "📧 ";
 }
 .Formulairecolor {
-    color: #2F8F98; cabin; font-weight: bold; text-transform: capitalize;
+    color: #2F8F98; font: cabin; font-weight: bold; text-transform: capitalize;
     }

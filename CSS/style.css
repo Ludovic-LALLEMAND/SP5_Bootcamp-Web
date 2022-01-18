@@ -19,7 +19,7 @@ margin-left: 100px;
   }	
   #navigation li {
     display: inline-block;
-    width: 30%;
+    width: 24%;
     text-align: center;
   }
   #navigation li a:hover, #navigation li a:focus, #navigation li a:active {

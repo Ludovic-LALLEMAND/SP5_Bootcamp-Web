@@ -172,7 +172,7 @@ a[href^="mailto"]::before {
         textarea {
             border-radius: 5px;
             background-color: #e39259;
-            padding:10px 50px 50px 200px;
+            padding:10px 100px 100px 200px;
         }
         
         select {

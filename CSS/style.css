@@ -75,7 +75,7 @@ a[href^="mailto"]::before {
         padding: 50px;
         background-color: black;
         font-family: cabin
-        color: #2F8F98;
+        color= #2F8F98;
         font-weight:bold;
         }
         
@@ -96,8 +96,8 @@ a[href^="mailto"]::before {
         text-align: center;
         color: #2F8F98;
         font-family: cabin
-        background-color: black;
-        font-size:36px;
+        background-color= black;
+        font-size: 36px;
         }
         
         .table{
@@ -114,7 +114,7 @@ a[href^="mailto"]::before {
         text-align: center;
         background-color:#e39259;
         font-family: cabin
-        font-size:36px;
+        font-size: 36px;
         }
         
         .td { 
@@ -124,7 +124,7 @@ a[href^="mailto"]::before {
         text-align: center;
         background-color: white;
         font-family: cabin
-        font-weight:bold;
+        font-weight: bold;
         font-size:25px; 
         }
         
@@ -134,7 +134,7 @@ a[href^="mailto"]::before {
         padding: 50;
         text-align: center;
         font-family: cabin
-        background-color: white;
+        background-color= white;
     }
     .H1table{
         color: #2F8F98; font-family: cabin; font-weight: bold; font-size: 40px; text-align: center;
